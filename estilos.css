@@ -1,0 +1,17 @@
+/* Estilos generales */
+body {
+    margin: 20px;
+    font-family: Verdana, sans-serif;
+}
+/* Cambia el tamaño del textarea */
+textarea {
+    width: 200px;
+}
+/* Cambia el color de fondo del campo email */
+input[name="email"] {
+    background-color: #eeeeee;
+}
+/* Usa la fuente Tahoma en párrafos y etiquetas */
+p, label {
+    font-family: Tahoma, sans-serif;
+}
